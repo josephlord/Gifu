@@ -4,6 +4,8 @@
 
 Gifu adds protocol-based, performance-aware animated GIF support to UIKit. (It's also a [prefecture in Japan](https://goo.gl/maps/CCeAc)).
 
+This Fork is simply to tweak some build configurations for the use of a particular project. Please report bugs and make PRs to the upstream project. Recomend that you use the upstream version for your own projects rather than this fork.
+
 ## Install
 
 ### [Carthage](https://github.com/Carthage/Carthage)
